@@ -21,12 +21,7 @@ This project provides an analytical dashboard to explore trends, performance met
 ![Database Schema](images/Database_Schema.png)
 
 ### Project Demo
-
-
 https://github.com/user-attachments/assets/8d44bf8a-bb7c-4578-837b-a33b6f6e9dd5
-
-##
-https://github.com/AhmedAliAli811/Movie-Analysis-Depi-GP/blob/main/Videos/Demo.mp4
 
 
 ## Project Structure
