@@ -9,18 +9,19 @@ This project provides an analytical dashboard to explore trends, performance met
 
 ## Visuals
 
-### Dashboard and Reports
-## Home Dashboard
+### Dashboard
+#### Home Dashboard
 ![Home Dashboard Preview](images/Home_Dashboard.png)
-## Movies Dashboard
+#### Movies Dashboard
 ![Movie Dashboard Preview](images/Movies_Dasboard.png)
-## Cast and Crew Dashboard
+#### Cast and Crew Dashboard
 ![Cast and Crew Dashboard Preview](images/Crews_Dashboard.png)
 
 ### Database Schema
 ![Database Schema](images/Database_Schema.png)
 
 ### Project Demo
+https://github.com/user-attachments/assets/8d44bf8a-bb7c-4578-837b-a33b6f6e9dd5
 
 
 ## Project Structure
